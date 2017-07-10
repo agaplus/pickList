@@ -22,6 +22,7 @@
 $("#pickList").pickList(); // JS
 ```
 <p>To set data into the plugin just include:</p>
+
 ```javascript
 var val = {
     01: {id: 01, text: 'Isis'},
@@ -35,6 +36,7 @@ var val = {
 var pick = $("#pickList").pickList({data: val});
 ```
 <p>To get data just call the getValues:</p>
+
 ```javascript
  var pick = $("#pickList").pickList({data: val});
 
