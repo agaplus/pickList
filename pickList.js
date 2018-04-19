@@ -58,10 +58,10 @@
                  "	 <select class='form-control pickListSelect pickData' multiple></select>" +
                  " </div>" +
                  " <div class='col-sm-2 pickListButtons'>" +
-                 "	<button  class='pAdd btn btn-primary btn-sm'>" + opts.add + "</button>" +
-                 "      <button  class='pAddAll btn btn-primary btn-sm'>" + opts.addAll + "</button>" +
-                 "	<button  class='pRemove btn btn-primary btn-sm'>" + opts.remove + "</button>" +
-                 "	<button  class='pRemoveAll btn btn-primary btn-sm'>" + opts.removeAll + "</button>" +
+                 "	<button type='button' class='pAdd btn btn-primary btn-sm'>" + opts.add + "</button>" +
+                 "      <button type='button'  class='pAddAll btn btn-primary btn-sm'>" + opts.addAll + "</button>" +
+                 "	<button type='button'  class='pRemove btn btn-primary btn-sm'>" + opts.remove + "</button>" +
+                 "	<button type='button'  class='pRemoveAll btn btn-primary btn-sm'>" + opts.removeAll + "</button>" +
                  " </div>" +
                  " <div class='col-sm-5'>" +
                  "    <select class='form-control pickListSelect pickListResult' multiple></select>" +
